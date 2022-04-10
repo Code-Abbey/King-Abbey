@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @King-Abbey
+- 👋 Hi, I’m Abiodun Adefusi
 - 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning Python, Machine Learning, Computer Vision and Deep Learning.
+- 🌱 I’m working on projects on Data Science, Machine Learning, Computer Vision and Deep Learning.
 - 💞️ I’m looking to collaborate on projects in Artificial Intelligence 
 - 📫 How to reach me 24/7 😃 via mail biodun.adefusi@gmail.com
 
